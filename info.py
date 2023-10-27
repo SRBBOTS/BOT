@@ -48,7 +48,7 @@ JOIN_REQS_DB = environ.get("JOIN_REQS_DB", 'DATABASE_URI')
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://myd:1mSbGWcHHGpFhcwg@cluster0.pl3b8ro.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "myd")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', "Telegram_files")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
