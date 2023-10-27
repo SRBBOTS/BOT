@@ -18,7 +18,7 @@ API_HASH = environ.get('7711af532d45686e38c6b360161e2483')
 BOT_TOKEN = environ.get('6853092379:AAGgwgeK5An-JHODp7O0dnyuu-XJQeN1Rx0')
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 300))
+CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/019d618abd74b2570b432.jpg')).split() #SAMPLE PIC
@@ -53,7 +53,7 @@ SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omegalinks.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '00578130c83f1262a8800eebfecc63c31a97dc5d')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
-MAX_B_TN = environ.get("MAX_B_TN", "10")
+MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/moviesrequestfiles')
