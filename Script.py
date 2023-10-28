@@ -10,9 +10,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/VJMasterBlastBot>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/hd_top_flix>ʜᴅᴛᴏᴘꜰʟɪxʙᴏᴛ</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/maidi_king'>ᴍᴀɪᴅɪ ᴷⁱⁿᵍ 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -24,10 +24,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://youtube.com/@Tech_VJ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://youtube.com/@HD-TOP-FLIX'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/KingVj01'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/maidi_king'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
