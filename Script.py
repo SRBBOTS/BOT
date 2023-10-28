@@ -87,7 +87,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/maidi_king>☢ʜᴅᴛᴏᴘꜰʟɪxʙᴏᴛ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/maidi_king>☢ᴍᴀɪᴅɪ ᴷⁱⁿᵍ 🇮🇳☢</a></b>
   
  <b>✯ Join here : <a href=https://t.me/hd_top_flix>☢Join my updateds☢</a></b> 
   
