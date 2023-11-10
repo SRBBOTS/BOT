@@ -70,7 +70,6 @@ async def give_filter(client, message):
         temp_files, temp_offset, total_results = await get_search_results(chat_id=message.chat.id, query=search.lower(), offset=0, filter=True)
         if total_results == 0:
             return
-        else:
 
 @Client.on_message(filters.private & filters.text & filters.incoming)
 async def pm_text(bot, message):
