@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/SRBBots'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Join Update Channel Usefull - <a href='https://t.me/SRBBots'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
 Developer - <a href='https://t.me/maidi_king'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
@@ -678,11 +678,11 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/maidi_king'>ᴍᴀɪᴅɪ ᴷⁱⁿᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/SRBBots'>★ꜱʀʙʙᴏᴛꜱ★</a>
+-Dev 2 <a href='https://t.me/maidi_king'>ᴍᴀɪᴅɪ ᴷⁱⁿᵍ 🇮🇳</a>
 
--Dev 3 <a href='https://t.me/SRBBots>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/maidi_king>Jᴏᴇʟ </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/SRBBots'>★ꜱʀʙʙᴏᴛꜱ★</a>
+- Dev 4 <a href='https://t.me/maidi_king'>ᴍᴀɪᴅɪ ᴷⁱⁿᵍ 🇮🇳</a>
 """
 
 
