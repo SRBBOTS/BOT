@@ -326,6 +326,7 @@ async def start(client, message):
             if not await check_verification(client, message.from_user.id) and VERIFY == True:
                 btn = [[
                     InlineKeyboardButton("ᴠᴇʀɪꜰɪᴇᴅ", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
+                    ],[
                     InlineKeyboardButton("❗ʜᴏᴡ ᴛᴏ ᴠᴇʀɪꜰɪᴇᴅ❗", url="https://t.me/SRB_MOVIEZ/14")
                 ]]
                 await message.reply_text(
@@ -394,6 +395,7 @@ async def start(client, message):
             if not await check_verification(client, message.from_user.id) and VERIFY == True:
                 btn = [[
                     InlineKeyboardButton("ᴠᴇʀɪꜰɪᴇᴅ", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
+                    ],[
                     InlineKeyboardButton("❗ʜᴏᴡ ᴛᴏ ᴠᴇʀɪꜰɪᴇᴅ❗", url="https://t.me/SRB_MOVIEZ/14")
                 ]]
                 await message.reply_text(
@@ -457,6 +459,7 @@ async def start(client, message):
     if not await check_verification(client, message.from_user.id) and VERIFY == True:
         btn = [[
             InlineKeyboardButton("ᴠᴇʀɪꜰɪᴇᴅ", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
+            ],[
             InlineKeyboardButton("❗ʜᴏᴡ ᴛᴏ ᴠᴇʀɪꜰɪᴇᴅ❗", url="https://t.me/SRB_MOVIEZ/14")
         ]]
         await message.reply_text(
